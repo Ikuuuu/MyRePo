@@ -1,2 +1,8 @@
 opencv-python
 opencv-contrib-python
+tensorflow
+matplotlib
+deepface
+PyQt5
+PyQt5Designer
+tf-keras
